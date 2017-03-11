@@ -3,5 +3,6 @@
 	"ignored_packages":
 	[
 		"Vintage"
-	]
+	],
+	"python_interpreter_path": "C:/Python27/python.exe"
 }

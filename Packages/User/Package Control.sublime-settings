@@ -13,6 +13,7 @@
 		"Python Flake8 Lint",
 		"Python PEP8 Autoformat",
 		"SideBarEnhancements",
-		"SublimeLinter-flake8"
+		"SublimeLinter-flake8",
+		"Sync Settings"
 	]
 }
