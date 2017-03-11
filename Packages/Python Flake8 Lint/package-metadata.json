@@ -1,0 +1,1 @@
+{"platforms": ["*"], "url": "https://github.com/dreadatour/Flake8Lint", "description": "Sublime Text plugin for lint Python files", "dependencies": [], "version": "2.4.3", "sublime_text": "*"}
