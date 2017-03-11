@@ -1,0 +1,26 @@
+{
+    // autoformat code on save ?
+    "autoformat_on_save": true,
+
+    // enable possibly unsafe changes (E226, E24, W6)
+    // aggressive level, 0 to disable:
+    "aggressive": 0,
+
+    // list codes for fixes; used by --ignore and --select
+    "list-fixes": false,
+
+    // do not fix these errors / warnings (e.g. [ "E501" , "E4" , "W"])
+    "ignore": [],
+
+    // select errors / warnings (e.g. ["E4", "W"])
+    "select": [
+        "E101", "E121", "E122", "E123", "E124", "E125", "E126", "E127", "E128", "E20",
+        "E211", "E22", "E224", "E226", "E227", "E228", "E231", "E241", "E242", "E251",
+        "E26", "E265", "E27", "E301", "E302", "E303", "E304", "E309", "E401", "E501",
+        "E502", "E701", "E70", "E711", "E712", "E721", "W291", "W293", "W391", "W601",
+        "W602", "W603", "W604", "W690"
+    ],
+
+    // Maximum line length
+    "max-line-length": 120
+}
