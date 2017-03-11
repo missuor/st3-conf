@@ -1,8 +1,0 @@
-{
-	"color_scheme": "Packages/User/SublimeLinter/Monokai (Flake8Lint) (SL).tmTheme",
-	"ignored_packages":
-	[
-		"Vintage"
-	],
-	"python_interpreter_path": "C:/Python27/python.exe"
-}

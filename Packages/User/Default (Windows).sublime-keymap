@@ -23,4 +23,13 @@
 
     // Side Bar
     { "keys": ["ctrl+shift+c"], "command": "copy_path" },
+
+    // Macros
+    { "keys": ["ctrl+shift+;"], "command": "run_macro_file", "args": {"file":"Packages/User/Macros/endofline.sublime-macro"}},
+    { "keys": ["ctrl+shift+'"], "command": "run_macro_file", "args": {"file":"Packages/User/Macros/endofnextline.sublime-macro"}},
+    { "keys": ["ctrl+shift+h"], "command": "run_macro_file", "args": {"file":"Packages/User/Macros/left.sublime-macro"}},
+    { "keys": ["ctrl+shift+l"], "command": "run_macro_file", "args": {"file":"Packages/User/Macros/right.sublime-macro"}},
+    { "keys": ["ctrl+shift+k"], "command": "run_macro_file", "args": {"file":"Packages/User/Macros/up.sublime-macro"}},
+    { "keys": ["ctrl+shift+j"], "command": "run_macro_file", "args": {"file":"Packages/User/Macros/down.sublime-macro"}},
+
 ]
