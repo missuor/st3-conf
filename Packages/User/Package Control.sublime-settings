@@ -9,6 +9,7 @@
 		"CTags",
 		"Generic Config",
 		"Package Control",
-		"SideBarEnhancements"
+		"SideBarEnhancements",
+		"SublimeLinter-flake8"
 	]
 }
