@@ -10,6 +10,7 @@
 		"Generic Config",
 		"Package Control",
 		"Python Flake8 Lint",
+		"Python PEP8 Autoformat",
 		"SideBarEnhancements",
 		"SublimeLinter-flake8"
 	]
