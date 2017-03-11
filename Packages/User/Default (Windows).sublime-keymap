@@ -20,4 +20,7 @@
     { "keys": ["ctrl+k", "ctrl+t"], "command": "fold_tag_attributes" },
     { "keys": ["ctrl+q"], "command": "toggle_comment", "args": { "block": false } }, // "ctrl+/"
     { "keys": ["ctrl+w"], "command": "close_file" },
+
+    // Side Bar
+    { "keys": ["ctrl+shift+c"], "command": "copy_path" },
 ]
