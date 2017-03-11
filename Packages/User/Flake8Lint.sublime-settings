@@ -1,0 +1,46 @@
+{
+    "live_mode": true,
+    "live_mode_lint_delay": 2000,
+
+    "pep8_max_line_length": 180,
+    // "python_interpreter": "auto",
+
+    // skip errors and warnings (e.g. ["E303", "E4", "W"])
+    "ignore": [
+        "D100", // missing docstring in public modules
+        "D101", // missing docstring in public modules
+        "D102", // missing docstring in public method
+        "D103", // missing docstring in public function
+
+        "D105", // missing docstring in magic method
+        "D200", // one line docstring should ...
+        "D204", // 1 blank line required after ...
+        "D205", // 1 blank line required between summary line and description
+        "D300", // docstring should start with """ other then '''
+        "D302",  // use u""" for unicode docstring
+        "D400",
+        "D401", // first line should be imperative mode('Set' not 'Sets')
+        "D403", // first word of the first line should be properly capitalized
+
+        "E265", // block comment should start with '# '
+        "E402", // module level import not at top of file
+        "E501", // line too long
+        "E704", // multiple statements on one line
+
+        "E731", // do not assign a lambda expression, use a def
+        "E713", // test for membership should be 'not in'
+
+        "N801", // class name should be CapWords convention
+        "N802", // function name should be lowercase
+        "N803", // arugment name should be lowercase
+        "N806", // variable in function should be lowercase
+
+        "W601", // d.has_key has deprecated, use in
+    ],
+
+    // select errors and warnings (e.g. ["E", "W6"])
+    "select": [],
+
+    // files to ignore, for example: ["*.mako", "test*.py"]
+    "ignore_files": []
+}
