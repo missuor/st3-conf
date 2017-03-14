@@ -32,4 +32,6 @@
     { "keys": ["ctrl+shift+k"], "command": "run_macro_file", "args": {"file":"Packages/User/Macros/up.sublime-macro"}},
     { "keys": ["ctrl+shift+j"], "command": "run_macro_file", "args": {"file":"Packages/User/Macros/down.sublime-macro"}},
 
+    // 自定义
+    { "keys": ["ctrl+shift+w"], "command": "toggle_setting", "args": {"setting": "word_wrap"}}
 ]

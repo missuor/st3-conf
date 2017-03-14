@@ -22,5 +22,5 @@
     ],
 
     // Maximum line length
-    "max-line-length": 120
+    "max-line-length": 180
 }
