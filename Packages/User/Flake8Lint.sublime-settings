@@ -1,9 +1,10 @@
 {
-    "live_mode": true,
+    "lint_on_save": false,
+    "live_mode": false,
     "live_mode_lint_delay": 2000,
 
-    "pep8_max_line_length": 180,
-    // "python_interpreter": "auto",
+    "pep8_max_line_length": 120,
+    "python_interpreter": "auto",
 
     // skip errors and warnings (e.g. ["E303", "E4", "W"])
     "ignore": [

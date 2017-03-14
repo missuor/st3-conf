@@ -50,7 +50,7 @@
 		".tags",
 		".tags_sorted_by_file"
 	],
-	"font_size": 12,
+	"font_size": 16,
 	"highlight_line": true,
 	"highlight_modified_tabs": true,
 	"ignored_packages":
@@ -87,10 +87,36 @@
 	],
 	"line_ending": "unix",
 	"margin": 2,
-	"python_interpreter_path": "C:/Python27/python.exe",
+	"python_interpreter_path": "auto",
+	"settings":
+	{
+		"flake8lint":
+		{
+			"builtins":
+			[
+			],
+			"complexity": -1,
+			"ignore":
+			[
+			],
+			"ignore_files":
+			[
+			],
+			"import-order": true,
+			"import-order-style": "google",
+			"naming": true,
+			"pep8": true,
+			"pep8_max_line_length": 180,
+			"pydocstyle": true,
+			"pyflakes": true,
+			"python_interpreter": "auto",
+			"select":
+			[
+			]
+		}
+	},
 	"show_tab_close_buttons": false,
 	"tab_size": 4,
 	"translate_tabs_to_spaces": true,
-	"trim_trailing_white_space_on_save": true,
-	"word_wrap": false
+	"trim_trailing_white_space_on_save": true
 }

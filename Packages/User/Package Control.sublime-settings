@@ -1,28 +1,26 @@
 {
-	"bootstrapped": true,
-	"in_process_packages":
-	[
-	],
-	"installed_packages":
-	[
-		"ChineseLocalizations",
-		"CTags",
-		"Emmet",
-		"Generic Config",
-		"GitGutter",
-		"HTML-CSS-JS Prettify",
-		"IMESupport",
-		"JsValidate",
-		"Modific",
-		"Package Control",
-		"Python Flake8 Lint",
-		"Python PEP8 Autoformat",
-		"RestructuredText Improved",
-		"SASS Build",
-		"SideBarEnhancements",
-		"SublimeLinter",
-		"SublimeLinter-flake8",
-		"Sync Settings",
-		"Syntax Highlighting for Sass"
-	]
+    "bootstrapped": true, 
+    "in_process_packages": [], 
+    "installed_packages": [
+        "ChineseLocalizations", 
+        "CTags", 
+        "Emmet", 
+        "Generic Config", 
+        "GitGutter", 
+        "HTML-CSS-JS Prettify", 
+        "IMESupport", 
+        "JsValidate", 
+        "Modific", 
+        "Package Control", 
+        "Python Flake8 Lint", 
+        "Python PEP8 Autoformat", 
+        "RestructuredText Improved", 
+        "SASS Build", 
+        "SideBarEnhancements", 
+        "SublimeLinter", 
+        "SublimeLinter-flake8", 
+        "Sync Settings", 
+        "Syntax Highlighting for Sass", 
+        "Sync Settings"
+    ]
 }
